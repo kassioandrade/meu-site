@@ -1,3 +1,3 @@
-# Readme
+# README
 ## Outra linha
 ### Another line
